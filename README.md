@@ -220,7 +220,9 @@ cmake/                build helper modules
 
 ## License
 
-Standard MIT license
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for full details.
+
+
 
 ## Author
 
