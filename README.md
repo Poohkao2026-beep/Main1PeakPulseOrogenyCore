@@ -226,4 +226,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for full details.
 
 ## Author
 
-Made by Poohkao and luna6 copilot in vscode bug reports, and sharp criticism are welcome.
+Made by Poohkao and luna6 copilot also bug reports, and sharp criticism are welcome.
